@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+}
+div{
+    border: 1px solid gray;
+    border-radius: 15px;
+}
+.ra1,.ra2,.ra4{
+    padding: 20px;
+}
+.ra1{
+    background-color: rgb(166, 204, 231);
+    color: blue;
+    border-radius: 15px 15px 0 0 ;
+}
+b{
+    font-size: 20px;
+}
+span{
+    color: red;
+}
+.ra3{
+    position: absolute;
+    top:30px;
+    right: 30px;
+    font-size: 30px;
+    color: blue;
+}
+.ra5{
+    position: absolute;
+    top:190px;
+    right: 30px;
+    font-size: 30px;
+    font-weight: 100;
+}
+.ra6{
+    position: absolute;
+    top:250px;
+    right: 30px;
+    font-size: 30px;
+    font-weight: 100;
+}
